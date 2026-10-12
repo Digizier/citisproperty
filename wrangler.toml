@@ -1,7 +1,6 @@
 name = "citisproperty"
 compatibility_date = "2026-08-08"
-compatibility_flags = ["nodejs_compat"]
 
 [assets]
 directory = "./out"
-binding = "ASSETS"
+not_found_handling = "404-page"
