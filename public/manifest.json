@@ -1,0 +1,21 @@
+{
+  "name": "Property Bank Real Estate",
+  "short_name": "PropertyBank",
+  "description": "Premier Real Estate Consultancy & Authorized Dealer for Citi Housing",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#c59b27",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

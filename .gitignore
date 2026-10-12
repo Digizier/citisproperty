@@ -1,0 +1,35 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Next.js Build Outputs
+/.next/
+/out/
+/build
+
+# Local Environment & Secrets
+.env*.local
+.env
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Large Media & Reference Assets
+/Reference-Data/
+*.mp4
+*.exe
+
+# Audit screenshots & temporary test captures
+/public/audit-screenshots/
+/public/verification-screenshots/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
